@@ -1,0 +1,6 @@
+#paragrafus {
+    text-transform: uppercase;
+    text-indent: 100px;
+    letter-spacing: 16px;
+    text-shadow: 3px 3px red;
+}
